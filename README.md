@@ -2,7 +2,7 @@
   <img width="30%" height="auto" src="https://media.giphy.com/media/icm4O16qfB3p8S1hzB/giphy.gif">
   <br>
   <small>trying improve in pixel-art...</small>
-  <h2>Hello there :wave:, welcome to my hub! Feel at home.</h2>
+  <h2>Hello there :wave:, welcome to my place! Feel at home.</h2>
 </div>
 <div align="left">
   <h3>👨‍💻 A little about me:</h3>
