@@ -8,7 +8,7 @@
   <h3>👨‍💻 A little about me:</h3>
   <p>I'm a beginner full-stack developer from :brazil: Brazil :brazil:, I'm always trying to learn more and improve my abilities.</p>
   <ul>
-    <li>🔭 I'm currently studying at home, but I want to get into a College or a Job to accelerate my learning and to grow as person.</li>
+    <li>🔭 I'm currently studying at home and college, but I want get a Job to accelerate my learning and to grow as person.</li>
     <li>🌱 I'm currently learning Javascript</li>
     <li>⚡ In my free time i like to play videogames, watch/read about tech and try refactor some of my codes.</li>
   </ul>
@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
